@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc129Ba3c4086613BABc55ccB91BB0E9E46CcEcd3",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc129ba3c4086613babc55ccb91bb0e9e46ccecd3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sparkies",
+  "SYMBOL": "SPKS",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sparkies",
+  "SHOW_BACKGROUND": true
+}
